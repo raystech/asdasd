@@ -9,3 +9,4 @@ split develop after merge 2
 - adding blue color
 - Red
 - Green
+### fix bug 1

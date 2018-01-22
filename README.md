@@ -7,3 +7,5 @@ split develop after merge 2
 
 - checkout develop
 - adding blue color
+- Red
+- Green

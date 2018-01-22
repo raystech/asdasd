@@ -6,3 +6,4 @@ split develop after merge
 split develop after merge 2
 
 - checkout develop
+- adding blue color
